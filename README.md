@@ -6,6 +6,5 @@
 <p style="color:red;">事故時の責任は一切負いません。可能なら一度コードを目に通してください</p>
 
 <hr>
-<p>2023/04/24  ファイルアップロード時のパス指定が間違っていたので修正</p>
 
 <p>2023/07/15　公開先をこちらに変更しました　<a href="https://github.com/FujiwaraAzusa/PHP-WebChatSystem-BBS-archives-"><span>元公開場所</span></a></p>
