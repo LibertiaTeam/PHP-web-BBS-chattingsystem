@@ -7,3 +7,5 @@
 
 <hr>
 <p>2023/04/24  ファイルアップロード時のパス指定が間違っていたので修正</p>
+
+<p>2023/07/15　公開先をこちらに変更しました　<a href="https://github.com/FujiwaraAzusa/PHP-WebChatSystem-BBS-archives-"><span>元公開場所</span></a></p>
